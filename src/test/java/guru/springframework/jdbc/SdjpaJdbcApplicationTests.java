@@ -8,8 +8,8 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class SdjpaJdbcApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }
